@@ -1,0 +1,29 @@
+{
+  "name": "unit-testing-in-node",
+  "version": "1.0.0",
+  "description": "Unit testing in Node JS along with Mocha and Chai",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjaydeveloper15/unit-testing-in-node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "unit-testing",
+    "mocha",
+    "chai"
+  ],
+  "author": "Sanjay Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanjaydeveloper15/unit-testing-in-node/issues"
+  },
+  "homepage": "https://github.com/sanjaydeveloper15/unit-testing-in-node#readme",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
