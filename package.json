@@ -4,7 +4,8 @@
   "description": "Unit testing in Node JS along with Mocha and Chai",
   "main": "server.js",
   "scripts": {
-    "test": "npm start"
+    "start-project": "npm start",
+    "test-cases": "mocha"
   },
   "repository": {
     "type": "git",
